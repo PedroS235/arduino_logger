@@ -1,0 +1,17 @@
+{
+  "name": "Arduino Logger",
+  "version": "1.0.0",
+  "description": "A simple to use timer API",
+  "authors": [
+    {
+      "name": "Pedro Soares",
+      "email": "pmbs.123@gmail.com"
+    }
+  ],
+  "keywords": ["utility", "logger"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PedroS235/arduino_logger"
+  },
+  "dependencies": []
+}
